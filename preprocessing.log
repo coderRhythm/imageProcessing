@@ -1,0 +1,1 @@
+2024-07-30 14:44:45,124:INFO:File: Direct Import Payment_2043071_OWRM801012437503_page-0015.jpg, Steps: [{'name': 'grayscale'}, {'name': 'noise_reduction', 'ksize': (5, 5)}, {'name': 'threshold', 'thresh_value': 150}, {'name': 'edge_detection', 'low_threshold': 100, 'high_threshold': 200}, {'name': 'morphology', 'operation': 'dilate', 'kernel_size': (5, 5)}]
