@@ -13,7 +13,7 @@ This project only preprocess on the various aspects like removal noise , convert
 
 ### Upload Page
 
-![Upload Page](docs/ImageUploading.png)
+![Upload Page](docs/imageUploading.png)
 
 ### Results Page
 
